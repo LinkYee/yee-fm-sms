@@ -1,0 +1,29 @@
+{
+  "name": "yee-fm-sms",
+  "version": "1.0.0",
+  "description": "a package used to send sms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkYee/yee-fm-sms.git"
+  },
+  "keywords": [
+    "SMS",
+    "china"
+  ],
+  "author": "Suley Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinkYee/yee-fm-sms/issues"
+  },
+  "homepage": "https://github.com/LinkYee/yee-fm-sms#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15",
+    "querystring": "^0.2.0",
+    "yee-app-sign": "^1.0.0"
+  }
+}
