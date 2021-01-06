@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/LinkYee/yee-fm-sms#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "lodash": "^4.17.15",
     "querystring": "^0.2.0",
     "yee-app-sign": "^1.0.0"
